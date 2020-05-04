@@ -1,0 +1,217 @@
+
+.navBar{
+    background-color:white;
+    height: 40px;
+    padding-bottom: 20px;
+    display: flex;
+    width: 100%;
+    
+}
+
+
+.navLink{
+    color: grey;
+    display: inline;
+    font-size:20px;
+    margin-right: 50px;
+    margin-left: 80px;
+    font-family: 'Raleway', sans-serif;
+    font-weight: 500;
+    display: fixed;
+    text-decoration: none;
+    
+    
+   
+    
+
+}
+
+.navAuthor{
+    color: white;
+    margin-top: -80px;;
+    font-size:40px;
+    font-family: 'Sen', sans-serif;
+    font-family: 'Roboto', sans-serif;
+    font-family: 'Abril Fatface', cursive;
+    font-family: 'Raleway', sans-serif;
+    
+
+    
+}
+
+.navTitle{
+    color:white;
+    font-size: 125px;
+    font-family: 'Sen', sans-serif;
+    font-family: 'Roboto', sans-serif;
+    font-family: 'Abril Fatface', cursive;
+    
+    
+
+}
+.navTitle2{
+    margin-top: -60px; 
+    font-size: 125px;
+    font-family: 'Sen', sans-serif;
+    font-family: 'Roboto', sans-serif;
+    font-family: 'Abril Fatface', cursive;
+    color:white;
+}
+
+   
+
+
+
+
+.coverphoto{
+    width: 100%;
+    padding-left: 1%;
+    padding-right: 1%;
+}
+    
+#MillieName{
+    font-size: 40px;
+    padding-right: 200px;
+    color: black;
+ font-weight: 600;
+ letter-spacing: 1px;
+}
+
+.topsection{
+    background-color: rgb(170, 102, 170);
+    color: white;
+    width: 300px;
+    height: 300px;
+    margin-left: 60%;
+    border-radius: 50%;
+    justify-content: center;
+    margin-bottom: 30%;
+    
+    
+}
+.abouttext{
+    font-size: 25px;
+    color: black;
+}
+.abouttext2{
+    font-size: 25px;
+    color: black;
+}
+.abouttext3{
+    font-size: 25px;
+}
+#contact1{
+    text-decoration: none;
+    color: grey;
+}
+
+
+.flex-container2{
+
+background-image: url('images.jpg');
+background-size: 1425px;
+padding-bottom: 100px;
+padding-top: 100px;
+margin-top: 100px;
+font-weight: 700px;
+opacity: 0.5;
+width:100%;
+background-repeat: no-repeat;
+padding-left: 1%;
+padding-right: 1%;
+text-align: center;
+margin-bottom:100px;
+
+}
+.headabout{
+    font-family: 'Raleway', sans-serif;
+    font-size: 100px;
+    text-align: 300%;
+    
+}
+
+.coverPhoto{
+    border-radius: 50%;
+    height: 300PX;
+
+}
+
+#bigbuybutton{
+    color: black;
+    text-decoration: none;
+    font-size: 40px;
+    color: honeydew;
+    border-radius: 10px;
+    margin-top: 500px;
+    font-family: 'Raleway', sans-serif;
+    background-color: rgba(76, 40, 87, 0.7);
+    padding: 25px;
+    
+}
+.bigbuybutton{
+    margin-top: 20px;
+    padding-left: 750px;
+    padding-top: 550px;
+
+}
+
+.bgphoto{
+    background-image: url("IMG_0463.jpg");
+    background-size: 1425px;
+    padding-bottom: 100px;
+    height: 800px;
+    width:100%;
+    background-repeat: no-repeat;
+    padding-left: 1%;
+    padding-right: 1%;
+}
+
+.copyright{
+    text-align: center;
+    font-family: 'Raleway', sans-serif;
+    color: grey;
+}
+
+.flex-container3{
+   text-align: center; 
+   background-color: rgb(240, 248, 255);  
+   padding-top: 100px;
+   margin-top: -100px;
+   font-family: 'Raleway', sans-serif;
+font-weight: 700;
+color: grey;
+
+}
+
+.getin{
+    font-size: 80px;
+    margin-bottom: 10px;
+    color: grey;
+    font-weight: 500;
+}
+
+#fname{
+    width: 300px;
+    height: 25px;
+    border-radius: 5px;
+}
+#lname{
+    width: 300px;
+    height: 25px;
+    border-radius: 5px;
+    margin-top: 25px;
+}
+
+#email{
+    width: 300px;
+    height: 25px;
+    border-radius: 5px;
+    margin-top: 25px;
+    margin-bottom: 25px;
+}
+#message{
+    width: 700px;
+    height: 200px;
+    border-radius: 5px;
+    margin-top: 25px;
+}
