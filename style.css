@@ -8,6 +8,10 @@
     
 }
 
+nav{
+    display: flex;
+}
+
 
 .navLink{
     color: grey;
@@ -146,12 +150,14 @@ margin-bottom:100px;
     font-family: 'Raleway', sans-serif;
     background-color: rgba(76, 40, 87, 0.7);
     padding: 25px;
+  
     
 }
 .bigbuybutton{
     margin-top: 20px;
     padding-left: 750px;
-    padding-top: 550px;
+  
+    
 
 }
 
@@ -214,4 +220,24 @@ color: grey;
     height: 200px;
     border-radius: 5px;
     margin-top: 25px;
+}
+
+.first{
+    color:rgb(63, 21, 63);
+    font-size: 40px;
+    margin-top: -5px;
+    font-family: 'Raleway', sans-serif;
+    padding-left: 54%;
+    padding-top: 25%;
+    font-weight: 900;
+    
+}
+.first2{
+    color:rgb(63, 21, 63);
+    font-size: 75px;
+    margin-top: -5px;
+    font-family: 'Norican', cursive;
+    padding-left: 49%;
+5
+    
 }
